@@ -50,7 +50,6 @@ images/
 ## 📸 Screenshots
 
 ![Homepage](images/section1.png)
-![Services](images/about%20us%20image.webp)
 
 ---
 
@@ -82,7 +81,7 @@ This project was created during my learning phase in 2023 as the final project f
 ## 📬 Contact
 
 For feedback or questions, feel free to reach out:
-- **Email:** info@mudasir.com
+- **Email:** dev.mudasir404@gmail.com
 
 ---
 
